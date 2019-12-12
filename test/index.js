@@ -43,7 +43,7 @@ require('./regression-conn-double-buildResponse.js');
 require('./as-thrift.js');
 require('./health.js');
 require('./as-json.js');
-require('./as-http.js');
+// require('./as-http.js');
 require('./peer.js');
 require('./peers.js');
 require('./peer_strategies.js');
